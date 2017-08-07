@@ -1,0 +1,12 @@
+{
+  "name": "wordpress-starter-theme",
+  "homepage": "https://github.com/alexdevero/WordPress-starter-theme",
+  "authors": [
+    "Alex Devero <deveroalex@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "git://github.com/twbs/bootstrap.git#v4.0.0-alpha.6"
+  }
+}
