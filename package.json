@@ -12,13 +12,13 @@
     "theme",
     "wordpress"
   ],
-  "homepage": "https://github.com/alexdevero/WordPress-starter-theme",
+  "homepage": "https://github.com/alexdevero/wordpress-starter-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexdevero/WordPress-starter-theme.git"
+    "url": "https://github.com/alexdevero/wordpress-starter-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/alexdevero/WordPress-starter-theme/issues"
+    "url": "https://github.com/alexdevero/wordpress-starter-theme/issues"
   },
   "author": {
     "name": "Alex Devero",
